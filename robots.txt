@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.str6uq.cn/sitemap.xml
